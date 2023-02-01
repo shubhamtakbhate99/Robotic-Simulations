@@ -1,0 +1,1 @@
+Placing task is little offset with Ki gain hence for final testing of the new task I have implemented kp gain only.

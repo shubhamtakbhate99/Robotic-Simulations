@@ -1,0 +1,1 @@
+Now you can see error plot quickly converges to zero. It does not slowly converge to zero hence you see the jerky motion. 
