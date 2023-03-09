@@ -7,4 +7,4 @@ I have made overshoot and best case accordingly.
 Also implementing feedforward only does not find any solutions. I have uploaded the video for the same. 
 Differnt error plots are in respective folder.
 an error file is also present in the new task.
-Now I would like to no about self collision so please hint me in the comment.
+Now I would like to know about self collision so please hint me in the comment.
